@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BurrowApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BurrowApplication.class, args);
+		System.out.println("Burrow Application Started");
 	}
 
 }
