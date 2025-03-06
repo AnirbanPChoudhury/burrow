@@ -9,5 +9,4 @@ public class BurrowApplication {
 		SpringApplication.run(BurrowApplication.class, args);
 		System.out.println("Burrow Application Started");
 	}
-
 }
